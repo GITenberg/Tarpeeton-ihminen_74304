@@ -1,0 +1,48 @@
+_repo: Tarpeeton-ihminen_74304
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wuori, Martti
+    alias: Wuori, M.
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Turgenjeff, Iwan
+    - Turgenev, I. S.
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
+description: 'Translation of: Дневник лишнего человека (Dnevník líshnego chelovéka).'
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74304'
+language: fi
+pgterms:marc905: 20240625014553turgenev
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diary fiction'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Tarpeeton ihminen
+url: http://www.gutenberg.org/ebooks/74304
