@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26501'
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
 description: 'Translation of: Дневник лишнего человека (Dnevník líshnego chelovéka).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74304#Tarpeeton-ihminen
 gutenberg_issued: '2024-08-23'
 gutenberg_type: Text
 identifiers:
